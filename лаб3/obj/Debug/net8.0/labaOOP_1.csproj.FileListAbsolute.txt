@@ -1,0 +1,14 @@
+C:\Users\Пользователь\source\repos\labaOOP_1\bin\Debug\net8.0\labaOOP_1.exe
+C:\Users\Пользователь\source\repos\labaOOP_1\bin\Debug\net8.0\labaOOP_1.deps.json
+C:\Users\Пользователь\source\repos\labaOOP_1\bin\Debug\net8.0\labaOOP_1.runtimeconfig.json
+C:\Users\Пользователь\source\repos\labaOOP_1\bin\Debug\net8.0\labaOOP_1.dll
+C:\Users\Пользователь\source\repos\labaOOP_1\bin\Debug\net8.0\labaOOP_1.pdb
+C:\Users\Пользователь\source\repos\labaOOP_1\obj\Debug\net8.0\labaOOP_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\labaOOP_1\obj\Debug\net8.0\labaOOP_1.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\labaOOP_1\obj\Debug\net8.0\labaOOP_1.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\labaOOP_1\obj\Debug\net8.0\labaOOP_1.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\labaOOP_1\obj\Debug\net8.0\labaOOP_1.dll
+C:\Users\Пользователь\source\repos\labaOOP_1\obj\Debug\net8.0\refint\labaOOP_1.dll
+C:\Users\Пользователь\source\repos\labaOOP_1\obj\Debug\net8.0\labaOOP_1.pdb
+C:\Users\Пользователь\source\repos\labaOOP_1\obj\Debug\net8.0\labaOOP_1.genruntimeconfig.cache
+C:\Users\Пользователь\source\repos\labaOOP_1\obj\Debug\net8.0\ref\labaOOP_1.dll
