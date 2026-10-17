@@ -1,0 +1,14 @@
+C:\Users\Пользователь\source\repos\laba_OOP5\bin\Debug\net8.0\laba_OOP5.exe
+C:\Users\Пользователь\source\repos\laba_OOP5\bin\Debug\net8.0\laba_OOP5.deps.json
+C:\Users\Пользователь\source\repos\laba_OOP5\bin\Debug\net8.0\laba_OOP5.runtimeconfig.json
+C:\Users\Пользователь\source\repos\laba_OOP5\bin\Debug\net8.0\laba_OOP5.dll
+C:\Users\Пользователь\source\repos\laba_OOP5\bin\Debug\net8.0\laba_OOP5.pdb
+C:\Users\Пользователь\source\repos\laba_OOP5\obj\Debug\net8.0\laba_OOP5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\laba_OOP5\obj\Debug\net8.0\laba_OOP5.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\laba_OOP5\obj\Debug\net8.0\laba_OOP5.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\laba_OOP5\obj\Debug\net8.0\laba_OOP5.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\laba_OOP5\obj\Debug\net8.0\laba_OOP5.dll
+C:\Users\Пользователь\source\repos\laba_OOP5\obj\Debug\net8.0\refint\laba_OOP5.dll
+C:\Users\Пользователь\source\repos\laba_OOP5\obj\Debug\net8.0\laba_OOP5.pdb
+C:\Users\Пользователь\source\repos\laba_OOP5\obj\Debug\net8.0\laba_OOP5.genruntimeconfig.cache
+C:\Users\Пользователь\source\repos\laba_OOP5\obj\Debug\net8.0\ref\laba_OOP5.dll
